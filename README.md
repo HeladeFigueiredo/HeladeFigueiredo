@@ -1,6 +1,11 @@
-# Olá, me chamo Hélade👋
+## Olá, me chamo Hélade👋
 
-## Ferramentas e Tecnologias
+- 👩‍⚕️🩺 Fisioterapeuta em transição de carreira
+- ❤️🚀 Apaixonada pelo Desenvolvimento Front-End
+- 💻🔧 JavaScript + React + HTML + CSS
+
+
+### Ferramentas e Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -8,16 +13,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>             
 <div/>
-          
-## Estatística
+  
+ ###  Aprendendo Mais Sobre
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" idth="40" height="40"/>
+<div/>
+  
+### Estatística
 <div>
   <a href="https://github.com/heladefigueiredo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heladefigueiredo&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heladefigueiredo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-## Cobrinha
-![Snake animation](https://github.com/heladefigueiredo/heladefigueiredo/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 <div>
