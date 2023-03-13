@@ -17,7 +17,7 @@
 </div>
 
 ## Cobrinha
-![Snake animation](https://github.com/HeladeFigueiredo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/heladefigueiredo/heladefigueiredo/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 <div>
