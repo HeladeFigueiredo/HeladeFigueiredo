@@ -1,8 +1,7 @@
 ## Olá, me chamo Hélade👋
 
-- 👩‍⚕️🩺 Fisioterapeuta em transição de carreira
-- ❤️🚀 Apaixonada pelo Desenvolvimento Front-End
-- 💻🔧 JavaScript + React
+- ❤️🚀 Apaixonada pelo Desenvolvimento Front-End e Mobile
+- 💻🔧 JavaScript + React.js + Flutter
 
 <br>
 
