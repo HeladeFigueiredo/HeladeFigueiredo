@@ -1,7 +1,8 @@
 ## Olá, me chamo Hélade👋
 
-- ❤️🚀 Apaixonada pelo Desenvolvimento Front-End e Mobile
-- 💻🔧 JavaScript + React.js + Flutter
+- ❤️ Apaixonada pela Tecnologia
+- 💻 Desenvolvimento Front-End e Mobile
+- 🔧 JavaScript + React.js + Flutter
 
 <br>
 
